@@ -1,0 +1,3 @@
+Login admin dengan email : admin@gmail.com, password : password.
+Login produksi dengan email : produksi@gmail.com, password : password.
+Login manager dengan email : manager@gmail.com, password : password.
